@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(#07a6db 0%, #10e0a2 100%);
+    padding: 10px;
+    margin: 100px;
+    font-size: 25px;
+    font-family: fantasy;
+}
+#About{
+   display: inline;
+    font-variant: small-caps;
+    
+}
+#My Favourite Books{
+   display: inline;
+    font-variant: small-caps;
+    
+}
+#My work{
+   display: inline;
+    font-variant: small-caps;
+    
+}
+#Inspiration{
+   display: inline;
+    font-variant: small-caps;
+    
+}
+#Contact{
+   display: inline;
+    font-variant: small-caps;
+    
+}
